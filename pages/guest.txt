@@ -1,0 +1,6 @@
+            <div 
+                className={styles.facebook}
+                id={background === true ? styles.facebookDark : null}
+              >
+                GUEST LOGIN
+              </div>

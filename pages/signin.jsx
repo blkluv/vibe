@@ -139,14 +139,8 @@ function Signin() {
             <div className={styles.smTxt}>
               At Clann we make sure you feel heard and understood.
             </div>
-            <div className={styles.btnCon}>
-            <div
-                className={styles.facebook}
-                id={background === true ? styles.facebookDark : null}
-              >
-                GUEST LOGIN
-              </div>
-              <div
+            <div className={styles.btnCon}> 
+              <div // Cut out a line from the above line { guest.txt }
                 className={styles.google}
                 id={background === true ? styles.googleDark : null}
               >
