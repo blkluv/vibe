@@ -132,7 +132,7 @@
   align-items: center;
   border: none;
   border-radius: 5rem;
-  color: #fff;
+  color: rgb(0, 0, 0);
   background-color: var(--mainColor);
   margin-top: 1rem;
   cursor: pointer;
@@ -206,7 +206,7 @@
   align-items: center;
   border: none;
   border-radius: 5rem;
-  color: #fff;
+  color: rgb(0, 0, 0);
   background-color: var(--techBlue);
   margin-top: 1rem;
 }
