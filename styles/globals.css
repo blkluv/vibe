@@ -46,8 +46,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 :root {
-  --mainColor: #8c52ff;
-  --mainColorHover: #925efa;
+  --mainColor: #e8ff52;
+  --mainColorHover: #eafc6f;
   --bg: #fff;
   --txt: #000;
   --darkModeBg: rgba(33, 33, 33, 0.95);
